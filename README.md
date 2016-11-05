@@ -19,7 +19,7 @@ ZSH Theme Docs: https://github.com/robbyrussell/oh-my-zsh/wiki/themes
 Dirty : 💉
  
 
-New file : 🔋
+Untracked file : 🔋
  
  
 Removed file : 💀
