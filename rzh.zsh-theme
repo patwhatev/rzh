@@ -8,6 +8,7 @@ if [ ! -n "${CUSTOMTHEME_PROMPT_ROOT+1}" ]; then
   CUSTOMTHEME_PROMPT_ROOT=true
 fi
 
+
 # STATUS
 if [ ! -n "${CUSTOMTHEME_STATUS_SHOW+1}" ]; then
   CUSTOMTHEME_STATUS_SHOW=true
